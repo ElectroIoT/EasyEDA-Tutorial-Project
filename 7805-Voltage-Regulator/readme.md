@@ -21,7 +21,7 @@ This is a **basic, easy-to-understand circuit** designed for beginners. It uses 
 ### **Schematic:**
 Below is the schematic diagram for the 7805 Voltage Regulator.
 
-![Schematic](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/Schematic.png)
+![Schematic](7805-Voltage-Regulator/Image/Schematic.png)
 
 ---
 
@@ -29,7 +29,7 @@ Below is the schematic diagram for the 7805 Voltage Regulator.
 
 The **3D PCB model** gives you a visual representation of how the circuit board looks in 3D before fabrication.
 
-![3D PCB](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/3D_PCB.png)
+![3D PCB](7805-Voltage-Regulator/Image/3D_PCB.png)
 
 ---
 
@@ -37,7 +37,7 @@ The **3D PCB model** gives you a visual representation of how the circuit board 
 
 Here is the **PCB Layout** for the voltage regulator. It shows how components are arranged on the board and how the traces are routed.
 
-![PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/pcb.PNG)
+![PCB Layout](7805-Voltage-Regulator/Image/pcb.PNG)
 
 ---
 
@@ -45,7 +45,7 @@ Here is the **PCB Layout** for the voltage regulator. It shows how components ar
 
 The **Bill of Materials (BOM)** for the project lists all the components used, with their LCSC part numbers. You can download the complete BOM below:
 
-- [Download BOM (Excel)](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/BOM_7805-Voltage-Regulator.xlsx)
+- [Download BOM (Excel)](7805-Voltage-Regulator/Gerber_File/BOM_7805-Voltage-Regulator.xlsx)
 
 | Component | Quantity | LCSC Part No. |
 |-----------|----------|---------------|
@@ -80,10 +80,8 @@ For more components, refer to the BOM file linked above.
 
 ## 📥 Download Files
 
-- [Schematic](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/Schematic.png)
-- [PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/pcb.PNG)
-- [3D PCB Model](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/3D_PCB.png)
-- [Download BOM (Excel)](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/7805-Voltage-Regulator/BOM_7805-Voltage-Regulator.xlsx)
+- [Gerber File](7805-Voltage-Regulator/Gerber_File/Gerber_7805-Voltage-Regulator.zip)
+- [Download BOM (Excel)](7805-Voltage-Regulator/Gerber_File/BOM_7805-Voltage-Regulator.xlsx)
 
 ---
 
