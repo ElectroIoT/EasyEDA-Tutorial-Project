@@ -75,6 +75,10 @@ Do you have an idea for a project? [Open an issue!](https://github.com/ElectroIo
 
 All designs are under [MIT License](LICENSE) – free to use, but don’t forget about good manners (give credit!).
 
+## 🧑‍💻 Contributors
+
+- [@manoranjan2050](https://github.com/manoranjan2050)
+
 ---
 
 > **Electronics is best learned with a soldering iron in one hand, and a cup of tea in the other. Happy tinkering!**
