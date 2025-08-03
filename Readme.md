@@ -9,6 +9,16 @@
   <i>Learn, create, and share electronics the right way – one project at a time.</i>
 </p>
 
+## 💸 Support This Project
+
+If you find this project helpful and want to support its development, you can contribute financially through the following links:
+
+- **[Sponsor me on GitHub](https://github.com/sponsors/electroiot)**: If you're an individual or company, you can support this project directly via GitHub Sponsors.
+- **[Donate via PayPal](https://www.paypal.me/manoranjan2050)**: Alternatively, you can make a one-time donation to support my work.
+- **[Become a Patron](patreon.com/ElectroIoT)**: Join my Patreon to get exclusive content and early access to new features.
+
+Thank you for your support! 🙏
+
 ---
 
 ## 🚀 About This Repository
