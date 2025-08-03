@@ -42,7 +42,7 @@ Currently, there are **2 projects** – and we’re just getting started!
 
 | Project | Preview | Description |
 |---------|:-------:|:-----------|
-| [7805-Voltage-Regulator](./7805-Voltage-Regulator) | <img src="7805-Voltage-Regulator/preview.jpg" alt="7805 Regulator" width="120"> | Simple 7805 linear voltage regulator PCB project |
+| [7805-Voltage-Regulator](./7805-Voltage-Regulator) | <img src="7805-Voltage-Regulator/Image/3D_PCB.png" alt="7805 Regulator" width="120"> | Simple 7805 linear voltage regulator PCB project |
 | [Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)](./Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)) | <img src="Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/preview.jpg" alt="Multi Voltage Regulator" width="120"> | PCB with selectable outputs: 12V, 9V, 5V, 3.3V |
 
 *Click project names to access folders with design files and docs.  
