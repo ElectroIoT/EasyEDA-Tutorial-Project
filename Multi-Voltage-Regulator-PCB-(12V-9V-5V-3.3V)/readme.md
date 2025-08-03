@@ -38,7 +38,7 @@ Below is the **schematic diagram** for the multi-voltage regulator.
 
 Here’s the **3D model** of the PCB layout. This model helps visualize the design before fabrication.
 
-![3D PCB](Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/3D_PCB.png)
+![3D PCB](/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/3D_PCB.png)
 
 ---
 
@@ -54,7 +54,7 @@ Here’s the **PCB Layout** that shows the routing of the traces and component p
 
 The **Bill of Materials (BOM)** includes all components used in the design along with their LCSC part numbers. You can download the complete BOM below:
 
-- [Download BOM (Excel)](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/BOM_Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V).xlsx)
+- [Download BOM (Excel)](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Gerber_File/BOM_Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V).xlsx)
 
 | Component | Quantity | LCSC Part No. |
 |-----------|----------|---------------|
@@ -92,10 +92,8 @@ For more components, refer to the BOM file linked above.
 
 ## 📥 Download Files
 
-- [Schematic](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Schematic.png)
-- [PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/pcb.PNG)
-- [3D PCB Model](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/3D_PCB.png)
-- [Download BOM (Excel)](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/BOM_Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V).xlsx)
+- [Gerber File](/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Gerber_File/Gerber_Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V).zip)
+- [Download BOM (Excel)](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Gerber_File/BOM_Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V).xlsx)
 
 ---
 
