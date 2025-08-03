@@ -30,7 +30,7 @@ This project includes a **PCB design** with **4 different output voltages** for 
 
 Below is the **schematic diagram** for the multi-voltage regulator.
 
-![Schematic](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Schematic.png)
+![Schematic](/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/Schematic.png)
 
 ---
 
@@ -38,7 +38,7 @@ Below is the **schematic diagram** for the multi-voltage regulator.
 
 Here’s the **3D model** of the PCB layout. This model helps visualize the design before fabrication.
 
-![3D PCB](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/3D_PCB.png)
+![3D PCB](Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/3D_PCB.png)
 
 ---
 
@@ -46,7 +46,7 @@ Here’s the **3D model** of the PCB layout. This model helps visualize the desi
 
 Here’s the **PCB Layout** that shows the routing of the traces and component placement.
 
-![PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/pcb.PNG)
+![PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/pcb.PNG)
 
 ---
 
