@@ -1,6 +1,6 @@
 <!-- Banner/logo section -->
 <p align="center">
-  <img src="https://electroiot.in/wp-content/uploads/2023/01/cropped-electroiotlogo2.png" alt="ElectroIoT Logo" width="150">
+  <img src="/Image/logo.png" alt="ElectroIoT Logo" width="150">
 </p>
 <h1 align="center">EasyEDA Tutorial Projects by ElectroIoT</h1>
 
@@ -95,6 +95,6 @@ All designs are under [MIT License](LICENSE) – free to use, but don’t forget
 
 <p align="center">
   <a href="https://electroiot.in">
-    <img src="https://electroiot.in/wp-content/uploads/2023/01/cropped-electroiotlogo2.png" width="60" alt="Logo">
+    <img src="/Image/logo.png" width="60" alt="Logo">
   </a>
 </p>
