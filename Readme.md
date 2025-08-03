@@ -15,7 +15,7 @@ If you find this project helpful and want to support its development, you can co
 
 - **[Sponsor me on GitHub](https://github.com/sponsors/electroiot)**: If you're an individual or company, you can support this project directly via GitHub Sponsors.
 - **[Donate via PayPal](https://www.paypal.me/manoranjan2050)**: Alternatively, you can make a one-time donation to support my work.
-- **[Become a Patron](patreon.com/ElectroIoT)**: Join my Patreon to get exclusive content and early access to new features.
+- **[Become a Patron](https://patreon.com/ElectroIoT)**: Join my Patreon to get exclusive content and early access to new features.
 
 Thank you for your support! 🙏
 
