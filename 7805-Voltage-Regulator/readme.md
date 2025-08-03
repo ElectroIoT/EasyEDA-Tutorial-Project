@@ -21,7 +21,7 @@ This is a **basic, easy-to-understand circuit** designed for beginners. It uses 
 ### **Schematic:**
 Below is the schematic diagram for the 7805 Voltage Regulator.
 
-![Schematic Image](/Image/Schematic.png) 
+![Schematic Image](/7805-Voltage-Regulator/Image/Schematic.png) 
 
 ---
 
