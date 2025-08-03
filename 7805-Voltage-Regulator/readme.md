@@ -1,5 +1,12 @@
 # 7805 Voltage Regulator
 
+## 📺 Watch the Video
+
+For a full walkthrough of the project, check out the video on my YouTube channel. Click the image below to watch!
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/ExzUpKTVh7Y/0.jpg)](https://www.youtube.com/watch?v=ExzUpKTVh7Y)
+
+
 ## 🚀 Project Overview
 
 This project demonstrates how to build a simple **Voltage Regulator** using the **7805** integrated circuit (IC). The **7805** provides a stable 5V output from a higher input voltage, making it ideal for powering circuits and components that require a 5V power supply.
