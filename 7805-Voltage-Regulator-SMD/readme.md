@@ -28,7 +28,7 @@ This is a **basic, easy-to-understand circuit** designed for beginners. It uses 
 ### **Schematic:**
 Below is the schematic diagram for the 7805 Voltage Regulator.
 
-![Schematic Image](/7805-Voltage-Regulator/Image/7805_SMD_Schematic.png) 
+![Schematic Image](/7805-Voltage-Regulator-SMD/Image/7805_SMD_Schematic.png) 
 
 ---
 
@@ -36,7 +36,7 @@ Below is the schematic diagram for the 7805 Voltage Regulator.
 
 The **3D PCB model** gives you a visual representation of how the circuit board looks in 3D before fabrication.
 
-![3D PCB](/7805-Voltage-Regulator/Image/7805_SMD_3d.png)
+![3D PCB](/7805-Voltage-Regulator-SMD/Image/7805_SMD_3d.png)
 
 ---
 
@@ -44,7 +44,7 @@ The **3D PCB model** gives you a visual representation of how the circuit board 
 
 Here is the **PCB Layout** for the voltage regulator. It shows how components are arranged on the board and how the traces are routed.
 
-![PCB Layout](/7805-Voltage-Regulator/Image/7805_SMD_layout.png)
+![PCB Layout](/7805-Voltage-Regulator-SMD/Image/7805_SMD_layout.png)
 
 ---
 
