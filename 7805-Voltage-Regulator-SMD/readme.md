@@ -1,10 +1,10 @@
-# 7805 Voltage Regulator
+# 7805 Voltage Regulator SMD
 
 ## 📺 Watch the Video
 
 For a full walkthrough of the project, check out the video on my YouTube channel. Click the image below to watch!
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/ExzUpKTVh7Y/0.jpg)](https://www.youtube.com/watch?v=ExzUpKTVh7Y)
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/gPtKmWyBqDA/0.jpg)](https://www.youtube.com/watch?v=gPtKmWyBqDA)
 
 
 ## 🚀 Project Overview
@@ -13,7 +13,7 @@ This project demonstrates how to build a simple **Voltage Regulator** using the 
 
 ## ⚙️ Project Details
 
-- **Name:** 7805 Voltage Regulator
+- **Name:** 7805 Voltage Regulator SMD
 - **Type:** Linear Voltage Regulator
 - **Input Voltage:** 7V to 35V
 - **Output Voltage:** 5V DC
@@ -28,7 +28,7 @@ This is a **basic, easy-to-understand circuit** designed for beginners. It uses 
 ### **Schematic:**
 Below is the schematic diagram for the 7805 Voltage Regulator.
 
-![Schematic Image](/7805-Voltage-Regulator/Image/Schematic.png) 
+![Schematic Image](/7805-Voltage-Regulator/Image/7805_SMD_Schematic.png) 
 
 ---
 
@@ -36,7 +36,7 @@ Below is the schematic diagram for the 7805 Voltage Regulator.
 
 The **3D PCB model** gives you a visual representation of how the circuit board looks in 3D before fabrication.
 
-![3D PCB](/7805-Voltage-Regulator/Image/3D_PCB.png)
+![3D PCB](/7805-Voltage-Regulator/Image/7805_SMD_3d.png)
 
 ---
 
@@ -44,7 +44,7 @@ The **3D PCB model** gives you a visual representation of how the circuit board 
 
 Here is the **PCB Layout** for the voltage regulator. It shows how components are arranged on the board and how the traces are routed.
 
-![PCB Layout](/7805-Voltage-Regulator/Image/pcb.PNG)
+![PCB Layout](/7805-Voltage-Regulator/Image/7805_SMD_layout.png)
 
 ---
 
@@ -52,16 +52,10 @@ Here is the **PCB Layout** for the voltage regulator. It shows how components ar
 
 The **Bill of Materials (BOM)** for the project lists all the components used, with their LCSC part numbers. You can download the complete BOM below:
 
-- [Download BOM (Excel)](/7805-Voltage-Regulator/Gerber_File/BOM_7805-Voltage-Regulator.xlsx)
+- [Download BOM (Excel)](/7805-Voltage-Regulator-SMD)
 
-| Component | Quantity | LCSC Part No. |
-|-----------|----------|---------------|
-| **7805** Voltage Regulator IC | 1 | [C36568](https://lcsc.com/product-detail/Voltage-Regulator-IC_C36568.html) |
-| **Capacitors** (470uF) | 2 | [C29919](https://lcsc.com/product-detail/Capacitors_C29919.html) |
-| **Capacitors** (100nF) | 2 | [C38791](https://lcsc.com/product-detail/Capacitors_C38791.html) |
-| **Diodes** (1N4007) | 4 | [C32013](https://lcsc.com/product-detail/Diodes_C32013.html) |
-| **Resistor** (150 Ohm) | 1 | [C13113](https://lcsc.com/product-detail/Resistors_C13113.html) |
-| **LED** (Red) | 1 | [C15972](https://lcsc.com/product-detail/LED_C15972.html) |
+
+
 
 For more components, refer to the BOM file linked above.
 
@@ -87,8 +81,8 @@ For more components, refer to the BOM file linked above.
 
 ## 📥 Download Files
 
-- [Gerber File](/7805-Voltage-Regulator/Gerber_File/Gerber_7805-Voltage-Regulator.zip)
-- [Download BOM (Excel)](/7805-Voltage-Regulator/Gerber_File/BOM_7805-Voltage-Regulator.xlsx)
+- [Gerber File](/7805-Voltage-Regulator-SMD)
+- [Download BOM (Excel)](/7805-Voltage-Regulator-SMD)
 
 ---
 
