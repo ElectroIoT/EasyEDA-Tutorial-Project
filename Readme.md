@@ -54,6 +54,7 @@ Currently, there are **2 projects** – and we’re just getting started!
 |---------|:-------:|:-----------|
 | [7805-Voltage-Regulator](./7805-Voltage-Regulator) | <img src="7805-Voltage-Regulator/Image/3D_PCB.png" alt="7805 Regulator" width="120"> | Simple 7805 linear voltage regulator PCB project |
 | [Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)](./Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)) | <img src="Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/3D_PCB.png" alt="Multi Voltage Regulator" width="120"> | PCB with selectable outputs: 12V, 9V, 5V, 3.3V |
+| [7805-Voltage-Regulator SMD](./7805-Voltage-Regulator-SMD) | <img src="7805-Voltage-Regulator-SMD/Image/7805_SMD_3d.png" alt="7805 Regulator SMD" width="120"> | Simple 7805 linear voltage regulator PCB project Using SMD|
 
 *Click project names to access folders with design files and docs.  
 *To add your own image: place a `preview.jpg` inside the project folder.
@@ -64,7 +65,7 @@ Currently, there are **2 projects** – and we’re just getting started!
 
 - [x] 7805 Voltage Regulator
 - [x] Multi Voltage Regulator PCB (12V/9V/5V/3.3V)
-- [ ] Project 3 - Coming soon!
+- [x] 7805 Voltage Regulator SMD
 - [ ] Project 4
 - [ ] ...and more up to 25!
 
