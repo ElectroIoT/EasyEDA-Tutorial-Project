@@ -4,7 +4,12 @@
 
 For a full walkthrough of the project, check out the video on my YouTube channel. Click the image below to watch!
 
+## Step By Step Guide How To Make Schematic
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/gPtKmWyBqDA/0.jpg)](https://www.youtube.com/watch?v=gPtKmWyBqDA)
+
+## Step By Step Guide How To Make PCB
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/mg-DOv9uNb8/0.jpg)](https://www.youtube.com/watch?v=mg-DOv9uNb8)
+
 
 
 ## 🚀 Project Overview
