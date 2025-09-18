@@ -1,5 +1,7 @@
 # Multi-Voltage Regulator PCB (12V, 9V, 5V, 3.3V)
 
+![PCB_DONE](/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/PCB_Done.png)
+
 ## 🚀 Project Overview
 
 This project demonstrates the design and implementation of a **Multi-Voltage Regulator PCB** that provides **4 output voltages**: **12V**, **9V**, **5V**, and **3.3V**. The circuit uses four voltage regulators:
