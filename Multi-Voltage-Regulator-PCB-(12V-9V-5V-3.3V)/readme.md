@@ -48,7 +48,7 @@ Here’s the **3D model** of the PCB layout. This model helps visualize the desi
 
 Here’s the **PCB Layout** that shows the routing of the traces and component placement.
 
-![PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/pcb.PNG)
+![PCB Layout](https://github.com/ElectroIoT/EasyEDA-Tutorial-Project/blob/main/Multi-Voltage-Regulator-PCB-(12V-9V-5V-3.3V)/Image/PCB_Done.png)
 
 ---
 
